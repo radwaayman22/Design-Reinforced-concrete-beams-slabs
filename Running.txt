@@ -1,0 +1,9 @@
+package p;
+
+public class Running {
+	public static void main(String[] args) {
+		Frame t = new Frame();
+		t.run();
+		
+	}
+}
